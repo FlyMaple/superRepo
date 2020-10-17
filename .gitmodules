@@ -4,3 +4,6 @@
 [submodule "sub-repo-2"]
 	path = sub-repo-2
 	url = git@github.com:FlyMaple/sub-repo-2.git
+[submodule "sub-repo-3"]
+	path = sub-repo-3
+	url = git@github.com:FlyMaple/sub-repo-3.git
